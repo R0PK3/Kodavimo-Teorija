@@ -1,0 +1,12 @@
+com\kt\decoding\Decoder.class
+com\kt\helpers\MatrixGenerator.class
+com\kt\helpers\HadamardMatrixGenerator.class
+com\kt\encoding\Encoder.class
+com\kt\helpers\ImageProcessingHelper.class
+com\kt\helpers\ChartHelper.class
+com\kt\helpers\TextTransformHelper.class
+com\kt\ui\MainUI.class
+com\kt\helpers\TransmissionResults.class
+com\kt\helpers\ValidationHelper.class
+com\kt\Main.class
+com\kt\channel\ChannelSimulator.class
